@@ -1,3 +1,7 @@
 [submodule "themes/meme"]
 	path = themes/meme
 	url = https://github.com/Cartar/hugo-theme-meme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Cartar/Cartar.github.io.git
+	branch = master
