@@ -21,3 +21,9 @@ Tags and categories:
 And of course, a strong about page linking to my other online presence :D 
 Linking to my YouTube videos would be cool
 - Images that link to videos! 
+
+## Making changes
+To test locally, simply run:
+```sh
+hugo server -D
+```

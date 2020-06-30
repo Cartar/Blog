@@ -7,7 +7,9 @@ categories: ["Books"]
 draft: true
 ---
 
-I enjoyed this book, but am hesitant to recommend it to others. The writting is only OK, and so much of the content felt somewhat common sense. However, I did find multiple nuggets worth keeping! These are my brief notes from those nuggets.
+I enjoyed this book, but am hesitant to recommend it to others. The writting is only OK, and so much of the content felt somewhat common sense. However, I did find multiple nuggets worth keeping! 
+
+# My favourite takeaways
 
 ### Prototyping 
 When developing a business, iteration and feedback are key. Offering a pre-order with full access to the witten Prototype (description of what is being offered) is ideal.

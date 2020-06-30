@@ -7,7 +7,11 @@ categories: ["Books"]
 draft: true
 ---
 
-In addition to this book being a wonderful read, here are my main take aways.
+This book was truly a wonderful read! If you want to learn about math's history, you will love this book :two_hearts:
+
+You do not need to have a strong background in math to get the full punch from this story. 
+
+# My favourite takeaways
 
 ### Regression to the mean
 Regression to the mean is the concept that, over time, event likihood converges on the average result. Said another way, whenever an outlier occurs, there's a good chance that the next event will be closer to the main outcome.

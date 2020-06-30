@@ -102,7 +102,7 @@ uglyURLs = false
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://https://cartar.github.io./"
+    website = "https://cartar.github.io./"
 
 # Related content
 [related]
