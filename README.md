@@ -12,6 +12,7 @@ is defined to contain the submodule where `Cartar.github.io` is actually hosted.
 
 ## Backlog
 * Review my Journal thoughts and other lessons/thoughts from:
+  * How do lasers work?
   * Physics 
   * Math
   * CS 

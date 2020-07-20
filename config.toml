@@ -204,12 +204,12 @@ uglyURLs = false
         weight = 1
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        url = "/code/"
-        name = "Code"
-        weight = 2
-        pre = "internal"
-        post = "archive"
+    #[[menu.main]]
+    #    url = "/code/"
+    #    name = "Code"
+    #    weight = 2
+    #    pre = "internal"
+    #    post = "archive"
     [[menu.main]]
         url = "/books/"
         name = "Books"
