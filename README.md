@@ -11,6 +11,8 @@ this is why the blog content is it's own repo. Hugo publishes to `public`, which
 is defined to contain the submodule where `Cartar.github.io` is actually hosted.
 
 ## Backlog
+* This blog! 
+* Scan my Great Grandfathers booklet -> add that here!! It's so cool
 * Review my Journal thoughts and other lessons/thoughts from:
   * How do lasers work?
   * Physics 
@@ -19,8 +21,12 @@ is defined to contain the submodule where `Cartar.github.io` is actually hosted.
   * Academia
   * Startups
   * Large corps 
-* flush out code lessons :) -> the basics of ML and a framework to copy? 
-* Link to Juniper! 
+* Learning how to read financial statements from a company
+* Flush out code lessons :)
+  * Web scraping
+  * Simple data collection using X
+  * The basic framework for MLflow 
+  * Enabling others to play with your data!
 
 ## Making changes
 To test locally, simply run:
