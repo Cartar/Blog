@@ -20,7 +20,7 @@ The downside to too many interests is that I'm not the best at anything, BUT, th
 ## The long answer...
 Fair warning, the remainder of this page is a long answer to the question: who are you? 
 
-As you'll find shortly, I am a bit of an open book. However, without a clear audience in mind, the following is quite a ramble. This is probably for future me to see how past me thought about young me. Or maybe I'll have kids one day and they'll find this an enjoyable read. More likely, you're neither future me, nor an offspring, but maybe you'll enjoy learning a bit more about my life! Or not. That is fine too. I wrote a lot.
+As you'll find shortly, I am a bit of an open book. However, without a clear audience in mind, the following is quite a ramble. This is probably for future me to see how past me thought about young me. More likely, you're not future me, but maybe you'll enjoy learning a bit more about my life! Or not. That is fine too. I wrote a lot.
 
 #### Growing up :innocent:
 I grew up in Toronto (well, North York if you know the difference), in a quietish neighbourhood. I had what I imagine is a normal upper-middle class upbringing. Lots of sports, summer camps, hanging out with friends and playing video games. Both my parents were engineers, working at Ontario Power Generation where they met. They're retired now, enjoying a very social 60's.
