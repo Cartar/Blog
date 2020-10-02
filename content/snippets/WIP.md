@@ -50,9 +50,3 @@ Take for instance...
 * Although it is impossible to know how long we have between the cycles, it is guaranteed that our brains bounce back. Mother nature is sneaky, she hardwired adaptive architure into the mainframe, so our software is never done updating. 
 * It is impossible to know how the hard times will change us, or which doors will open because of it. But it is certain that your situation will improve. 
 * In the meantime, talk about bad times, for they are real and need addressing. But keep your moral up too - for without it, you are harder to help, and slower to see the positive change happening around you. 
-
-## Creating Creativity
-
-Is creativity a skill, or an innate ability? Let's take a look at what the research has to say:
-
-https://www.annualreviews.org/doi/pdf/10.1146/annurev-orgpsych-031413-091226

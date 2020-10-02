@@ -28,8 +28,3 @@ The final piece of the puzzle is people. It's not enough to simply have wealth, 
 This is a hugely different mindset. (A majority of?) American's believe they created their success out of sheer will power. They did not. Their stolen wealth, off the back of colonial thievery, and mid-century luck put them on a path to dominance. They should be humble about the fortune they find themselves with. Instead, there is an air of deservedness that stifles humility, and reduces their social appetite to support the have nots.
 
 American's should be proud of their country, and work hard to recognize their errors, and their luck. They should stop idealizing the individual without also appreciating their privileged environment, and how their (white male) riches came to be.
-
-
-# A Cherry Picked Appendix:
-As a final cherry picked example, consider the tale of Nikola Tesla. He revolutionized electricity for the masses, having to battle established giants like Edison to do so. Born and raised in the Austrian Empire, his genius was not a product of American superiority. [In 1884, Tesla emigrated to the US after being sought out by an Edison manager, for his advanced knowledge in generating dynamos and motors](https://en.wikipedia.org/wiki/Nikola_Tesla#Move_to_the_United_States). Had the Edison company not had the funds to move Tesla, or America not the wealth to pay him more than European competition, it's unlikely he'd have made the long trip over the Atlantic Ocean. Instead, his electrical innovations would have sparked greatness for another nation.
-
