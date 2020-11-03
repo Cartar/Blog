@@ -1,7 +1,7 @@
 ---
 title: "Markdown Emoji"
 date: 2020-06-14T11:40:14-04:00
-categories: ["emoji"]
+categories: ["Snippets"]
 draft: true
 ---
 
