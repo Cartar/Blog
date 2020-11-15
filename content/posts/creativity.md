@@ -42,13 +42,6 @@ So this is a nice list of things to do, but what about things not to do? Unfortu
 
 In other words, do unto others as you'd have them do onto you. You hid information from them, they'll hide it from you.
 
-TODO: (maybe)
-- design thinking (task dependant):
-    * Job control and an ability to apply routine results in self-reported creativity 
-    * Moderate levels of time pressure resulting in the highest levels of creativity 
-    * Viewing your daily work as challenging is linked to higher levels of daily creativity 
-    * If multiple tasks, creativity is optimized when all tasks have goals and users have discretion to switch between tasks 
-
 ## The Nuanced
 Okay, so far, we've basically reminded ourselves why culture matters; why it benefits a team to have strong leadership, not micro manage, and be kind to ourselves and others. Probably all things that have a positive affect outside of creativity too. What are some more nuanced findings brought to light by this review?
 

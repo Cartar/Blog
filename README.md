@@ -34,6 +34,11 @@ To test locally, simply run:
 hugo server -D
 ```
 
+To publish:
+```sh
+./deploy.sh "Your optional commit message"
+```
+
 ## Tutorials for:
 1. Linear Regression with Regularization (e.g. Ridge). Do you really understand what is going on? Do you understand what can go wrong? Do you understand what the coefficients really mean? Do you understand how to evaluate the quality of your fit? Do you understand why Regularization helps or hurts you? Do you understand how to pick your regularization hyper-parameter?
 2. Logistic Regression. One of the most powerful tools in your tool box. Do you understand how the fit is different from linear regression? Do you understand performance metrics like Precision, Recall, Specificity and how to pick a threshold? Do you understand the perils of class imbalance?
