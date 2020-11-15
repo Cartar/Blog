@@ -1,10 +1,3 @@
----
-title: "Back to the Future"
-date: 2020-10-10T16:24:08-04:00
-categories: ["Posts"]
-draft: true
----
-
 When posed the question: “what year would you want to reborn, if you had no control over where you are born, or who you are (i.e., gender, race, social status, location, etc.)?” Sam answers with “about 15,000 years ago”. And I think she is probably right. 
 
 Our society is amazing for a select few, pretty sweet for a majority, and then terribly broken for billions of people. To roll the dice, and potentially wind up in the broken category, is not a worthwhile risk when the alternative is to live amongst an ancient community, who likely live in far greater equality (albeit, far worse conditions). So much of our happiness is derived by comparison to our neighbours, which leads me to believe the overall happiness of a random person’s life was probably higher in ancient times than today.
