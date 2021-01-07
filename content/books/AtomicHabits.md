@@ -22,3 +22,7 @@ It's a very good framework for everyone to be aware of, regardless of you goals.
 * To make behaviour change always starts with awareness. You need to recognize your habits, before you can change them.
 * Habit scorecare: review of your daily habits and categorize them into -/=/+
 * Point & call the action to make it clear what is happening & it's consequence. I.e., I am opening a new tab and typing "r" out of habit, this will take me to reddit if I press enter where I'll have some fun but likely spend too much time and regret having come in the first place.
+* Use **habit stacking** to chain new habits to existing ones. i.e., After I close my laptop for the day, I'll immediately do 20 minutes of language homework.
+
+
+## [Cheat sheet](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf)
