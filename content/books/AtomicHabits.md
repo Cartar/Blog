@@ -26,3 +26,15 @@ It's a very good framework for everyone to be aware of, regardless of you goals.
 
 
 ## [Cheat sheet](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf)
+
+
+## Habits work best applied to your strengths:
+Your strengths are a cross between your genetics & your interests. What doesn't feel like work to you? What are you naturally predisposed to being great at?
+
+For example, I think I'm great at communicating a goal to a team, organizing the team's energy and focus to tackle the problem quickly. Allowing for new thoughts to form, connecting dots, and listening to othes while creating a space that allows others to speak up.
+
+This is a behaviour strength, which I've slowly come to learn about the more teamwork I've done. A personality test could have helped me uncover it too, but in general, it's always good to be doing some "exploring".
+
+Then, when you've found regieme that fits you well, you can "exploit" it, for accelerated gains compared to your peers. This process is known as "explore vs. exploit". You should always have a bit of both in your life; likely more explore while your young, and exploit once you've found your groove.
+
+**This stuff fits really nicely with the Alamanack of Naval** ^^^
