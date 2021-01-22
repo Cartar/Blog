@@ -10,8 +10,20 @@ somewhere. Make sure to use the forked repo as the submodule theme. Similarly
 this is why the blog content is it's own repo. Hugo publishes to `public`, which
 is defined to contain the submodule where `Cartar.github.io` is actually hosted.
 
+
+## Making changes
+To test locally, simply run:
+```sh
+hugo server -D
+```
+
+To publish:
+```sh
+./deploy.sh "Your optional commit message"
+```
+
 ## Backlog
-* This blog! 
+* This blog!
 * Scan my Great Grandfathers booklet -> add that here!! It's so cool
 * Review my Journal thoughts and other lessons/thoughts from:
   * How do lasers work?
@@ -28,16 +40,6 @@ is defined to contain the submodule where `Cartar.github.io` is actually hosted.
   * The basic framework for MLflow 
   * Enabling others to play with your data!
 
-## Making changes
-To test locally, simply run:
-```sh
-hugo server -D
-```
-
-To publish:
-```sh
-./deploy.sh "Your optional commit message"
-```
 
 ## Tutorials for:
 1. Linear Regression with Regularization (e.g. Ridge). Do you really understand what is going on? Do you understand what can go wrong? Do you understand what the coefficients really mean? Do you understand how to evaluate the quality of your fit? Do you understand why Regularization helps or hurts you? Do you understand how to pick your regularization hyper-parameter?
