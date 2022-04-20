@@ -17,10 +17,16 @@ To test locally, simply run:
 hugo server -D
 ```
 
-To publish:
+## To publish 
+*Note, 1 & 3 can be done together in a single step):*
+1. Commit & push changes to Blog repo.
+
+2. Deploy changes to blog to "public" submodule:
 ```sh
 ./deploy.sh "Your optional commit message"
 ```
+
+3. Commit & push submodule change to Blog repo.
 
 ## Backlog
 * This blog!
