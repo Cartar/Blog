@@ -45,3 +45,5 @@ What we need most of all is a new incentive system for our politicians. We need 
 We need reform of those who do the reforming.
 
 I believe education does work, we just need the right incentives.
+
+4/5.

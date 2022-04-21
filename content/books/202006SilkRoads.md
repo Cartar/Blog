@@ -25,3 +25,5 @@ The book starts off slow, but is worth perservering through. It starts about 200
 * The human cost required to sustain an empire is terrible
 
 And most importantly, **how frequently history repeats itself**.
+
+5/5.

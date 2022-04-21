@@ -15,3 +15,5 @@ Using a mix of data and in-depth investigations around high profile human intera
 * The coupling of environment and action is so strong, that it should always be taken into account when interacting with strangers.
     * Don't judge a stranger, judge their environment.
 * We are bad lie detectors. We expect a liar to act one way, and a truth teller another. Our snap decision lie detection is never to be trusted.
+
+5/5.

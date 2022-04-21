@@ -47,3 +47,5 @@ As we prioritize moving away, we focus on what is being lost. This can make us f
 ### Selection Test
 Environmental constraints that determine which systems can be self perpetuating and which ones die. 
 Know the selection tests for a market and you can change the field; especially as markets change due to tech.
+
+4/5.

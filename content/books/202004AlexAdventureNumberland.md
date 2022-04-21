@@ -22,3 +22,5 @@ This idea is interesting implications within the workplace. Manager's are stung 
 The normal distribution is the result of randomness. 
 * Whatever you see a normal distribution not caused by randomness, be very suspicous. 
 * When you carefully measure something, if you do not see a normal distribution where randomness should occur (i.e., measurement error), you have likely destroyed the randomness that should be present. 
+
+5/5.
