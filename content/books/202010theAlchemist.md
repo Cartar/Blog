@@ -1,6 +1,6 @@
 ---
 title: "The Alchemist"
-date: 2020-10-260T11:40:14-04:00
+date: 2020-10-26T11:40:14-04:00
 tags: ["Books"]
 categories: ["Books"]
 draft: true
