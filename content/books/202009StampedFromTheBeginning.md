@@ -3,7 +3,7 @@ title: "Stamped From The Beginning"
 subtitle: "The Definitive History of Racist Ideas in America"
 date: 2020-09-30T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Good Books"]
 draft: true
 ---
 

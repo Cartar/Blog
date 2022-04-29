@@ -1,9 +1,9 @@
 ---
 title: "The Almanack of Naval Ravikant"
 subtitle: "A guide to wealth and happiness"
-date: 2020-12-27T11:40:14-04:00
+date: 2020-12-22T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Good Books"]
 draft: true
 ---
 

@@ -3,7 +3,7 @@ title: "The Personal MBA"
 subtitle: "Master the art of business"
 date: 2020-02-20T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Good Books"]
 draft: true
 ---
 

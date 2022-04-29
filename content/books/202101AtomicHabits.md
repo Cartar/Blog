@@ -3,7 +3,7 @@ title: "Atomic Habits"
 subtitle: "An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 date: 2021-01-04T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Best Books"]
 draft: true
 ---
 

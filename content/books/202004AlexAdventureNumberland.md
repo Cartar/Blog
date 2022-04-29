@@ -3,7 +3,7 @@ title: "Alex's Adventures in Numberland"
 subtitle: "Dispatches from the Wonderful World of Mathematics"
 date: 2020-04-25T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Best Books"]
 draft: true
 ---
 

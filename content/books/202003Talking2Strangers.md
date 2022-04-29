@@ -3,7 +3,7 @@ title: "Talking to Strangers"
 subtitle: "What We Should Know about the People We Don't Know"
 date: 2020-03-20T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Best Books"]
 draft: true
 ---
 

@@ -2,7 +2,7 @@
 title: "The Alchemist"
 date: 2020-10-26T11:40:14-04:00
 tags: ["Books"]
-categories: ["Books"]
+categories: ["Good Books"]
 draft: true
 ---
 

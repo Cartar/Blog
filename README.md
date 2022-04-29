@@ -28,6 +28,15 @@ hugo server -D
 
 3. Commit & push submodule change to Blog repo.
 
+## Book ratings
+
+1. Bad Books (1/5)
+2. Maybe Books (2/5)
+3. Okay Books (3/5)
+4. Good Books (4/5)
+5. Best Books (5/5)
+
+
 ## Backlog
 * This blog!
 * Scan my Great Grandfathers booklet -> add that here!! It's so cool
