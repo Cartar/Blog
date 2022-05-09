@@ -30,8 +30,8 @@ hugo server -D
 
 ## Book ratings
 
-1. Bad Books (1/5)
-2. Maybe Books (2/5)
+1. Worst Books (1/5)
+2. Poor Books (2/5)
 3. Okay Books (3/5)
 4. Good Books (4/5)
 5. Best Books (5/5)
