@@ -1,6 +1,6 @@
 ---
 title: "The Quick Fix"
-subtitle: "Why Fad Psychology Can't CUre our Social Ills"
+subtitle: "Why Fad Psychology Can't Cure our Social Ills"
 date: 2022-06-18T11:40:14-04:00
 tags: ["Books"]
 categories: ["Good Books"]
