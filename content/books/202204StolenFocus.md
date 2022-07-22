@@ -14,13 +14,13 @@ Many of these ideas are present in other self help books, like: sleep more, eat 
 **"Life begins at the edge of your comfort zone"**.
 
 ## On relating to others:
-"It's worth thinking deeping about how other people live and how their minds work. They have complex inner lives, just like you."
+"It's worth thinking deeply about how other people live and how their minds work. They have complex inner lives, just like you."
 
-I found this idea particularly interesting. And how there is research that the more novels you read, the better you are (on average) at reading other people's emotions. This improvement in our ability to empathize was also found for long TV series, or movies. But not when shorter shows are watched. 
+I found this idea particularly interesting. How there is research that the more fiction novels you read, the better you are (on average) at reading other people's emotions (but not for nonfiction). This improvement in our ability to empathize was also found in children who consumed more long-format TV series, or movies. But not shorter shows.
 
 This helps explain why our societies are becoming ever more divided. Our media is continuing to become compressed, from TV series, to YouTube, down to Tik Tok. It's no wonder people have less empathy for each other than ever before.
 
-## Technology is running away with us.
+## Technology has overrun us:
 
 It used to be that technology was created to be an extension of us. That is what a paintbrush is, or a musical instrument. In a way, so too are light bulbs (light to be together, or engage with ___), automobiles (moving us faster from A to B), or the internet (connecting us to those far away).
 

@@ -1,0 +1,32 @@
+---
+title: "On Being Spiritual"
+date: 2022-07-22T00:24:08-04:00
+categories: ["Posts"]
+draft: true
+---
+ 
+Spirituality has a bit of a bad rap in my opinion. For starters, it’s often associated with astrology, magical connections, and various forms of fortune telling. As if your life’s path can be understood in a grand cosmic sense, if only you’d let Professor Trelawney read your tea leaves.
+
+This version of spirituality has meaning for many people, and in that way, it is useful. That we reliably measure placebo and nocebo effects is proof that our mind and body are connected in ways we don’t yet fully understand. And with growing evidence for the role of the mind in disease and healing [1], I hope we oneday will. The mind-body connection is also why spiritual journeys are so powerful. A deeper feeling of peace, sometimes referred to as “oneness”, can tame your inner anxieties about life and provide clarity to a world that constantly feels in disarray.
+
+It is here that I find spirituality rubs up against something real. Something we can talk about in plain language, without hand wavy predictions about your future as a pisces. Namely, spirituality defined as: **a feeling of being one with the universe**. Nothing more, nothing less.
+
+Before discussing what a feeling of oneness with the universe means, let’s talk about why it matters. For starters, a feeling of oneness is a neutral to semi-positive state of mind. Similar to other forms of spirituality (which I would caution against), there is no negativity. There is growing support for the importance of positive emotions in later life [2], which I’d suggest is benefitted by spirituality. Another reason for wanting to feel at one with the universe is that you will have more compassion. Compassion for people you don’t know, compassion for things you’ve seen, done, or might never experience at all. Compassion for yourself. This caring will make you into a more pleasant person for yourself, others, and the planet. In my opinion, those are all good things, worth spending a little more time on. So let’s dive into what this feeling of oneness is - at a practical level.
+
+I find it helpful to approach this topic from three, maybe three and a half directions: relational-dependencies (i.e., ying & yang), the big bang, and mindfulness / meditation / psychedelics. I’ll let you decide if that last bucket is really two (or three?).
+
+Try to imagine a universe with nothing in it. A vacuum. Empty space. Boundlessly nothing in all directions. This would still have the strangeness of our universe. Quantum foam, as it’s sometimes called, with virtual particles popping in and out of existence. But without any forms of energy to play together, we’d conclude this universe is dead. Now let’s add a single proton, a hydrogen atom. A little better, but on its own, nothing can happen. It is only when we add many, many more atoms, much more energy, that we start to have the dance of our universe unfold. Gravity’s influence takes a seat beside quantum mechanics, and suddenly, fast forward some few billion years, we might stumble upon life.
+
+But notice that how we arrived here was predicated on relationships. Nothing is interesting (or indeed, useful) on its own. And this can be applied to everything we experience. You would not be you without your parents, and you’d surely be a different person if you’d grown up surrounded by completely different friends. Perhaps had they been kinder, or meaner, that would have changed your snap-judgment towards strangers. And your ability to trust. Not only you, but everything, absolutely everything, is defined, understood, and meaningful, because of the way in which it interacts with other things. On our own, we are nothing. But in the balance of others, we experience meaning. It is our death that makes life worth living. You are happy because you can be sad. Ying and yang.
+
+And the big bang? Why does that matter? It matters because too often, we forget we’re all children of that single cosmic event. Similar to how a shattering glass explodes its contents outward from some central mistake, we find ourselves flung away from our big bang. The shards of glass in all shapes and sizes, some a great distance from the initial accident, are scattered across your floor. And as you sweep up the mess you’ve made, you find a very peculiar piece of glass where you didn’t think it was possible to be. We are that peculiar piece - with the most bizarre combinations of stardust. We are all descendants of a big bang who’s explosive energy created massive stars, which created bigger and heavier elements, and eventually, created all of us.
+
+So we remember we are all born of the same singular cosmic parent, with a life that is codependent on everything else. In this way, we are all one. But our society has grown by selecting favourites. Preferred animals to domesticate, crops to grow, and people to rule. Humanity has shown nature that it can build better, using a different set of principles. Rather than dance to the tune of natural selection, humans can create their own music, and innovate their way out of the solar system. Truth be told, I’d love for nothing more. I’m pro space exploration - hopefully that isn’t too polarising of an opinion to say out loud. But I also recognize that in changing the song, we’re wrecking havoc. We are not just hurting the planet. Or condemning countless lives who are born into unimaginable poverty; the forgotten. Without spirituality, we have less compassion and a greater appetite for hate, which leads to self inflicted mental harm. (And worse physical health too [2]). This is where mindfulness, meditation, and psychedelics come in. These tools can help break down the social constructs in our minds. By doing so, they help us experience a more balanced life. It becomes much clearer just how connected we all are. That we are all one with the universe. Born of the same beginnings, we are dependent on each other for happiness in the present, and success in the future.
+
+A feeling of oneness with the universe is meaningful. Death is less scary. Compassion is easier to come by. You might find yourself helping our little planet a little more. It is for these reasons that I believe spirituality is worth considering. In the words of Alan Watts: “you are not born into this world. You are born out of it.”
+
+
+### References:
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1456909/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3173764/ 
+
