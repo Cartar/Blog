@@ -18,7 +18,7 @@ Parts of the story were interesting, as history often is, but the general arc of
 * "Anyone who has ever dealt with the tax authorities, the educational system or any complex bureaucracy knows that the truth hardly matters. What's written on your form is far more important."
 * "Religion is a deal, whereas spirituality is a journey." And a dangerous one at that for religious, political, and business leaders trying to keep their human resources in order.
 * Ending a painful experience with minor pain, or even pleasure distorts our remembered history of the event. Children's dentists know this well.
-* Today, having power means knowing what to ignore
+* Today, having power means knowing what to ignore.
 
 Our future is increasingly one of "techo-humanism" whereby technology allows us to mediate our human desires, emotions and feelings. Humanism holds "free will" as the most important thing in the world, which complicates this newfound power. To rescue our dilemma of how to wield such power, we are moving away from a worldview that sanctifies desires/experiences, towards a new religion of "Dataism" - the worship of the creation, distribution, and utilization of data, to make the world a better place.
 
