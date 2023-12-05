@@ -45,35 +45,35 @@ I made far too many bookmarks throughout, so I'll jump right in. Here are a coll
 
 > "Among nondrug treatments [for improved aging], cognitive stimulation therapy (CST) has the highest record of efficacy."
 
-> "Other treatments: studies that are only preliminary, and wouldn't yet be called *medicine* because evidence is still being gathered:
+"Other treatments: studies that are only preliminary, and wouldn't yet be called *medicine* because evidence is still being gathered:
 * Vitamin B_12, found in meat, poultry, eggs, milk and fish, is necessary for the production of myelin in the brain and is involved in the metabolism of every cell in the body... We believe that [homocysteine] increases oxidative stress and increases damage to DNA and that its neurotoxicity leads to cell death. B_12 (along with B_6 and folate) is responsible for recycling homocysteine, thereby keeping its levels in check; insufficient amounts of B_12 are therefore believed responsible for a toxic buildup of homocysteine.
 * Neuroshroom - which includes Hericium erinaceus polysaccharides (HEP), cordyceps militaris, and ganoderma lucidum, that increase acetylcholine for memory / neuroprotective / neuroregenerative qualities, boost energy levels, and boost memory function / reduce stress / have anti-inflammatory properties respectively.
 * Bacopa - water hyssop, might improve higher-order cognitive processes.
 * Meditation - helps with our ability to maintain attention, reducing activity within the default mode network and increases connectivity between regions of the brain that are implicated in cognitive control. 
 
-{{< figure src="/images/SuccessfulAging2.jpg" title="Well-being-score" >}}
+{{< figure src="/images/SuccessfulAging2.jpg" title="Well Being Score" >}}
 
 "Daniel Pink has to say this about the middle-aged dip: 'One possibility is the disappointment of unrealized expectations. In our naive twenties and thirties, our hopes are high, our scenarios rosy. Then reality trickled in like a slow leak in the room. Only one person gets to be CEO - and it's not going to be you. Some marriages crumble - and yours, sadly, is one of them... Yet we don't remain in the emotional basement for long, because over time we adjust our aspirations and later realize that life is pretty good. In short, we dip in the middle because we're lousy forecasters. In youth, our expectations are too high."
 
-* "Three questions: who'll change my light bulbs? [i.e., who'll do the mundane shit when you're unable to]; What if I want an ice cream cone [i.e., are you setup to live the life you want as your systems begin to fail - do you have to drive to that ice cream, or can you walk]? and Who will I have lunch with?
+> * "Three questions: who'll change my light bulbs? [i.e., who'll do the mundane shit when you're unable to]; What if I want an ice cream cone [i.e., are you setup to live the life you want as your systems begin to fail - do you have to drive to that ice cream, or can you walk]? and Who will I have lunch with?
 
-* "Decreasing the risk of dying from one disease has increased our risk of dying from other, arguably more horrible ones. [i.e., alzheimer's instead of a heart attack]"
+> * "Decreasing the risk of dying from one disease has increased our risk of dying from other, arguably more horrible ones. [i.e., alzheimer's instead of a heart attack]"
 
-* "The single most important factor in determining successful aging is the personality trait of Conscientiousness."
+> * "The single most important factor in determining successful aging is the personality trait of Conscientiousness."
 
-* "Three additional factors that determine how well we age are more important than the rest. The first is childhood experiences, in particular of parental attachment and of head injury. The second is exercise in varied, natural environments. And the third is social interaction."
+> * "Three additional factors that determine how well we age are more important than the rest. The first is childhood experiences, in particular of parental attachment and of head injury. The second is exercise in varied, natural environments. And the third is social interaction."
 
-* "Nearly every part of our brains is activated by interacting with others, live, face-to-face, in real time."
+> * "Nearly every part of our brains is activated by interacting with others, live, face-to-face, in real time."
 
-* "One major block to social engagement is anger.... As former US senator Alan Simpson says, 'Hatred corrodes the container in which it is carried'."
+> * "One major block to social engagement is anger.... As former US senator Alan Simpson says, 'Hatred corrodes the container in which it is carried'."
  
-* "Remember that the world is changing, and those changes are at odds with your accumulated experience. Force yourself to update, to keep current with changes in the world." 
+> * "Remember that the world is changing, and those changes are at odds with your accumulated experience. Force yourself to update, to keep current with changes in the world." 
 
-* "Remember also that pain is physical and informed by our senses, yet it is also influenced by emotional and cultural factors. A negative emotional state can lead to increased pain, and an otherwise painful sensation can be interpreted as positive, such as soreness after exercise."
+> * "Remember also that pain is physical and informed by our senses, yet it is also influenced by emotional and cultural factors. A negative emotional state can lead to increased pain, and an otherwise painful sensation can be interpreted as positive, such as soreness after exercise."
 
-* "Practice gratitude for what you have."
+> * "Practice gratitude for what you have."
 
-{{< figure src="/images/SuccessfulAging1.jpg" title="Well-being-score" >}}
+{{< figure src="/images/SuccessfulAging1.jpg" title="Risk / Protective Factors" >}}
 
 ### Appendix: Rejuvenating your brain:
 1. Don't retire. Don't stop being engaged with meaningful work.
